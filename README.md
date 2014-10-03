@@ -1,4 +1,4 @@
-Learning
+Employee
 ========
 
-Learning project (Spring, Hibernate)
+Employee project by using Spring, Hibernate
